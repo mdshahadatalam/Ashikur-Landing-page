@@ -54,6 +54,10 @@ nav{
 
  }
 
+ .can-list:hover{
+   color: #fc0;
+ }
+
  .li-can{
     list-style-type: none;  
      padding: 10px 12px;
